@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi! 👋
 
 I'm a junior software engineer currently learning Go
 <!--
