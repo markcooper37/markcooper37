@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm a junior software engineer currently learning Go
+I'm a junior software engineer currently learning Go and Rust.
 <!--
 **markcooper37/markcooper37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
