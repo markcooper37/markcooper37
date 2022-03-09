@@ -1,4 +1,4 @@
-# Hi! 👋
+<h1 align="center">Hi! 👋</h1>
 
 I'm a junior software engineer currently learning Go and Rust.
 <!--
