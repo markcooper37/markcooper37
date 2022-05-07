@@ -7,6 +7,12 @@
 </p>
 
 I'm Mark, a junior software engineer currently learning Go and Rust.
+
+<div align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=markcooper37&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Github Stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markcooper37&theme=tokyonight&show_icons=true&layout=compact&langs_count=6" alt="Most-used languages"/>
+</div>
+
 <!--
 **markcooper37/markcooper37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
