@@ -8,7 +8,7 @@
 
 <h2>Info</h2>
 
-I'm Mark, a junior software engineer.
+I'm Mark, a junior software developer.
 
 - I started learning to code while studying Mathematics at university.
 - I mainly code in Go.
