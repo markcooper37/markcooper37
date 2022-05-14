@@ -6,11 +6,15 @@
   <a href="https://exercism.org/profiles/mooper37"><img height="30em" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Link to Mark's Exercism profile" style="max-width: 100%;"></a>
 </p>
 
+<h2>Info</h2>
+
 I'm Mark, a junior software engineer.
 
 - I started learning to code while studying Mathematics at university.
 - I mainly code in Go.
 - I'm currently learning Rust.
+
+<h2>Stats</h2>
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markcooper37&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Mark's Github stats"/>
