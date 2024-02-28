@@ -14,13 +14,6 @@ I'm Mark, a junior software developer.
 - I mainly code in Go.
 - I'm currently learning Rust.
 
-<h2>Stats</h2>
-
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=markcooper37&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Mark's Github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markcooper37&theme=tokyonight&show_icons=true&layout=compact&langs_count=6" alt="Mark's most used languages"/>
-</div>
-
 <!--
 **markcooper37/markcooper37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
